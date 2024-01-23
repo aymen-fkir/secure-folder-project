@@ -25,7 +25,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/secure-folder-project.git
+    git remote add origin https://github.com/aymen-fkir/secure-folder-project.git
     cd secure-folder-project
     ```
 
